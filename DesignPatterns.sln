@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{E8110880-9A0F-4005-AF84-7833A9223221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{4A95FA01-AAD8-403B-AC4C-A24BD0FAEFF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{4A95FA01-AAD8-403B-AC4C-A24BD0FAEFF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{290EE2DE-B7D7-4760-B212-605A49AD2A0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{290EE2DE-B7D7-4760-B212-605A49AD2A0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{1FCD721E-A6A7-4A6C-A540-5C91AC6B72A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{1FCD721E-A6A7-4A6C-A540-5C91AC6B72A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{93BD4F9D-CF62-484A-BAC7-7B2E36C64BF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{93BD4F9D-CF62-484A-BAC7-7B2E36C64BF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{63707197-3A73-4DBE-9A28-68C607E58C57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{63707197-3A73-4DBE-9A28-68C607E58C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{459CF9AE-1C11-455E-9239-45CB44D84C3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{63707197-3A73-4DBE-9A28-68C607E58C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63707197-3A73-4DBE-9A28-68C607E58C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63707197-3A73-4DBE-9A28-68C607E58C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459CF9AE-1C11-455E-9239-45CB44D84C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459CF9AE-1C11-455E-9239-45CB44D84C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459CF9AE-1C11-455E-9239-45CB44D84C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459CF9AE-1C11-455E-9239-45CB44D84C3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

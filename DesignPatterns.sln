@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "DesignPatternState\State.csproj", "{B14A39BF-C290-4347-A449-097C0BF0EC7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{B14A39BF-C290-4347-A449-097C0BF0EC7C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainofResponsibility\ChainOfResponsibility.csproj", "{E8110880-9A0F-4005-AF84-7833A9223221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{E8110880-9A0F-4005-AF84-7833A9223221}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{4A95FA01-AAD8-403B-AC4C-A24BD0FAEFF2}"
 EndProject

@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{A98B104F-5E06-4312-92D7-30C531A6A06F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{DD2A16DB-C0BB-4B10-A0DC-E96416EF6EDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A98B104F-5E06-4312-92D7-30C531A6A06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A98B104F-5E06-4312-92D7-30C531A6A06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A98B104F-5E06-4312-92D7-30C531A6A06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2A16DB-C0BB-4B10-A0DC-E96416EF6EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2A16DB-C0BB-4B10-A0DC-E96416EF6EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2A16DB-C0BB-4B10-A0DC-E96416EF6EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2A16DB-C0BB-4B10-A0DC-E96416EF6EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

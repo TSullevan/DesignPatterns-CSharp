@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{0EEA7DF6-29F3-4636-89E1-50D40C00E6F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{493F131A-B1F4-4D09-A844-B654798DB3B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{0EEA7DF6-29F3-4636-89E1-50D40C00E6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EEA7DF6-29F3-4636-89E1-50D40C00E6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EEA7DF6-29F3-4636-89E1-50D40C00E6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493F131A-B1F4-4D09-A844-B654798DB3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493F131A-B1F4-4D09-A844-B654798DB3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493F131A-B1F4-4D09-A844-B654798DB3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493F131A-B1F4-4D09-A844-B654798DB3B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
